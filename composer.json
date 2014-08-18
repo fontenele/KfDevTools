@@ -1,8 +1,8 @@
 {
-    "name": "kf/KfDevTools",
+    "name": "kf/kf-dev-tools",
     "description": "DevTools for KF PHP Framework",
     "keywords": ["kf", "php", "framework", "tools", "dev"],
-    "homepage": "https://github.com/fontenele/KfDevTools",
+    "homepage": "https://github.com/fontenele/kf-dev-tools",
     "license": "MIT",
     "type": "library",
     "authors": [
